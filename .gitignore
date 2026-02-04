@@ -25,3 +25,4 @@ pnpm-debug.log*
 
 # OS
 Thumbs.db
+vite.config.js
