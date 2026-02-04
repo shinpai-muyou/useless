@@ -2,6 +2,7 @@
 node_modules/
 
 # Build output
+dist/
 *.local
 
 # Logs
@@ -24,3 +25,4 @@ pnpm-debug.log*
 
 # OS
 Thumbs.db
+vite.config.js
